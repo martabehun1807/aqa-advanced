@@ -1,0 +1,5 @@
+node_modules/
+nodeBasics/
+package-lock.json
+package.json
+git_basics/
